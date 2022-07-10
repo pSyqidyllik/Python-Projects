@@ -12,12 +12,12 @@ In order to run this app, you need [Python 3](https://www.python.org/ftp/python/
 - Menu with different types of ramen that could be ordered.
   - ![](images/menu.png)
 
-- Take-in customer information.
+- Take-in customer information and compute amount of order.
   - ![](images/info.png)
 
 - Printing receipt of succesful order.
   - ![](images/receipt.png)
 
 ## My modification:
-- Welcome message and adjustment in timings text pop-ups.
+- Welcome message and adjustment in timings of text pop-ups.
 - Function to add any ramen to the order a number of times (instead of just one originally), and to the printed 'receipt' as well.
