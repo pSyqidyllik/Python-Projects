@@ -4,6 +4,7 @@
 
 A simple ordering system program coded in Python, with Tkinter GUI, and SQLite database integration.
 
+In order to run this app, you need [Python 3](https://www.python.org/ftp/python/) installed. 
 
 #### Features:
 - Menu with tabs separating types of foods that could be ordered.
