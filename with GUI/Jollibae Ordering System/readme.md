@@ -1,10 +1,14 @@
 # Jollibae Ordering System
-#### DISCLAIMER: The images and assets that are used and modified for this program are owned by Jollibee Foods Corporation. This project was used for academic  compliance only.
+#### *DISCLAIMER: The images and assets that are used and modified for this program are owned by Jollibee Foods Corporation. This project was used for academic  compliance only.*
+
+In order to run this app, you need [Python 3](https://www.python.org/ftp/python/), [tkinter](https://docs.python.org/3/library/tkinter.html), and [sqlite](https://docs.python.org/3/library/sqlite3.html) installed. 
+
+
+<br>
+
    ![](images/startup.png)
 
-A simple ordering system program coded in Python, with Tkinter GUI, and SQLite database integration.
-
-In order to run this app, you need [Python 3](https://www.python.org/ftp/python/) installed. 
+-A simple ordering system program coded in Python, with Tkinter GUI, and SQLite database integration.
 
 #### Features:
 - Menu with tabs separating types of foods that could be ordered.
