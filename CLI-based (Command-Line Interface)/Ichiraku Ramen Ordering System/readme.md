@@ -1,14 +1,14 @@
 # Ichiraku Ramen Ordering System (Mod of order_ramen)
 
-#### DISCLAIMER: Original Source Code is not mine. I can't find the name of the developer or even the original post itself. This project was used for academic compliance only.
+#### *DISCLAIMER: Original Source Code is not mine. I can't find the name of the developer or even the original post itself. This project was used for academic compliance only.*
 
-(Credits to the owner)
+*(Credits to the owner)*
+*In order to run this app, you need [Python 3](https://www.python.org/ftp/python/) installed.*
 
-A simple command-line ordering system program coded in Python.
+<br>
 
-In order to run this app, you need [Python 3](https://www.python.org/ftp/python/) installed. 
-
-#### Features:
+-A simple command-line ordering system program coded in Python.
+### Features:
 - Menu with different types of ramen that could be ordered.
   - ![](images/menu.png)
 
