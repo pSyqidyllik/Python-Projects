@@ -15,7 +15,7 @@ In order to run this app, you need [Python 3](https://www.python.org/ftp/python/
 - Take-in customer information and compute amount of order.
   - ![](images/info.png)
 
-- Printing receipt of succesful order.
+- Printing receipt of successful order.
   - ![](images/receipt.png)
 
 ## My modification:
