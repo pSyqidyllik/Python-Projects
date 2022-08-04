@@ -6,6 +6,7 @@
 *In order to run this app, you need [Python 3](https://www.python.org/ftp/python/) installed.*
 
 <br>
+<br>
 
 -A simple command-line ordering system program coded in Python.
 ### Features:
